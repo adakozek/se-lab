@@ -43,4 +43,4 @@ The code can be built, but due to missing features one of the tests fails. The f
 
 ![Java CI with Maven](https://github.com/adakozek/se-lab/actions/workflows/maven.yml/badge.svg)
 
-![License](https://img.shields.io/github/license/adakozek/se-lab>)
+![License](https://img.shields.io/github/license/adakozek/se-lab)
