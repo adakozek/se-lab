@@ -1,3 +1,9 @@
+## Status badges
+
+![Java CI with Maven](https://github.com/adakozek/se-lab/actions/workflows/maven.yml/badge.svg)
+
+![License](https://img.shields.io/github/license/adakozek/se-lab)
+
 # SE Spaceship
 
 This is a sample application for the [Software Engineering](http://www.mit.bme.hu/oktatas/targyak/vimiab04) course at BME MIT.
@@ -39,8 +45,3 @@ The project represents an alpha version of a spaceship.
 
 The code can be built, but due to missing features one of the tests fails. The first exercise will be to fix this.
 
-## Status badges
-
-![Java CI with Maven](https://github.com/adakozek/se-lab/actions/workflows/maven.yml/badge.svg)
-
-![License](https://img.shields.io/github/license/adakozek/se-lab)
